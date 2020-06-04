@@ -1,4 +1,5 @@
 ﻿using JG.Speech.Core;
+using System;
 
 namespace JG.Speech
 {
@@ -7,6 +8,7 @@ namespace JG.Speech
         static void Main(string[] args)
         {
             Robot.Load();
+            Console.ReadKey();
         }
     }
 }
