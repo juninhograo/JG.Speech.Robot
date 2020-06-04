@@ -10,7 +10,7 @@ Basically you can set 2 keys inside of App.config file:
 </ul>
 
 <h3>Requirements</h3>
-It necessary to have some packages installed inside of you computer, so start with these one:
+Some packages need to be installed inside of you computer:
 <ul>
 <li><a target="_blank" href="https://www.microsoft.com/en-us/download/details.aspx?id=27226">Microsoft Speech Platform - Software Development Kit (SDK)</a></li>
 <li><a target="_blank" href="https://www.microsoft.com/en-us/download/details.aspx?id=27225">Microsoft Speech Platform - Runtime</a></li>
