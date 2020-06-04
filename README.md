@@ -1,5 +1,5 @@
 # JG.Speech.Robot
-It is a simple interactive robot created using the technologies. C# + Windows + Speech.Recognition. It was created to tell some stories and to have fun my own kids, there isn't a commercial purposes.
+It is a simple interactive robot created using the technologies: C# + Windows + Speech.Recognition. It was created to tell some stories and to have fun my own kids, there isn't a commercial purposes.
 The robot will read a text set in App.config file and will speech each words until tell all the story.
 
 <h3>Options</h3>
